@@ -1,2 +1,3 @@
+# A script that list all the content of the current directory, including the hidden ones
 #!/bin/bash
 ls -a
